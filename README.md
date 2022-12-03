@@ -1,7 +1,7 @@
-# oamain
+# Oasis Admin System for Donor Management
 
 # Background
-Donors System that I wrote in Clipper 5.3 back in 1993/4 for a charity. The system kept track of donations and memmbership fees, as well as drawing reports and doing mailmerge to print labels to address envelopes for donation requests and membershhip renewals.
+Donors System that I wrote in DOS-based Clipper 5.3 back in 1993/4 for a charity. The system kept track of donations and memmbership fees, as well as drawing reports and doing mailmerge to print labels to address envelopes for donation requests and membershhip renewals.
 
 The system could recreate its indexes, create the databases if they did not yet exist, do backups, transfer data from the various centres to the mail centre by floppy disc. Variables like the VAT rate and mambership fees could be adjusted within the system.
 
