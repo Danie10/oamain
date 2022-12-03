@@ -65,4 +65,4 @@ Version 2.11 99-11-17 Checked Y2K compliancy. Recompiled with new contact detail
 # Demo Video
 I actually ran the compiled DOS EXE under Linux later on and receorded this video that shows what the system looked like in action.
 
-[![Short Video](./assets/thumbnail.jpg)](./assets/DonorSystemDemo.mp4)
+[![Short Video](./assets/thumbnail.jpg)](./assets/DonorsSystemDemo.mp4)
