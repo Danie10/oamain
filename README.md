@@ -27,6 +27,6 @@ I used Blinker to do the compiling. It used Extend and Super Lib 3.0 as addition
 * Version 2.11 99-11-17 Checked Y2K compliancy. Recompiled with new contact details.
 
 # Demo Video
-I actually ran the compiled DOS EXE under Linux later on and receorded this video that shows what the system looked like in action.
+I actually ran the compiled DOS EXE under Linux later on and recorded this video that shows what the system looked like in action.
 
 [![Short Video](./assets/thumbnail.jpg)](https://youtu.be/jeqeUysdZMo)
